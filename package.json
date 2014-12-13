@@ -9,6 +9,7 @@
   "author": "Sam Mikes <smikes@cubane.com>",
   "license": "MIT",
   "dependencies": {
+    "blinker": "^1.0.1",
     "relay-mono": "^0.1.2",
     "rfid-pn532": "^0.1.7"
   }
